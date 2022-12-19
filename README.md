@@ -1,6 +1,6 @@
-# Module 1 Project - Horiseon Webpage 
+# - Horiseon Webpage 
 
-## In this project I have helped deploy and clean up source code for a Marketing Company
+- In this project I have helped deploy and clean up source code for a Marketing Company
 
 - I built this project to help me get a better understanding of HTML formatting, CSS stylesheets, and working within a repository 
 
@@ -13,4 +13,12 @@
 - Clicking on "Search Engine Optimization" "Online Reputation Management" and "Social Media Marketing" links in the header will direct you to articles further down the browser.
 
 - Outside of that theres not much usage to this page besides just viewing the information on the browser.
+
+- Here is the link for the website https://jonathanguhl.github.io/JonGuhlModule1-Project/
+
+- The Webpage should look like this when the browser is loaded 
+![](assets/images/HoriseonPreview.png)
+
+
+
 
