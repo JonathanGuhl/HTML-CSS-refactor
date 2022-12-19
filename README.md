@@ -1,4 +1,4 @@
-# - Horiseon Webpage 
+# - HTML CSS refactor - Horiseon Marketing  
 
 - In this project I have helped deploy and clean up source code for a Marketing Company
 
